@@ -1,0 +1,23 @@
+/* list style 1 */
+.list-style-hand{
+    list-style-image: url('./../icon/hand-16px.png') !important;
+}
+.list-style-hand-rtl{
+    list-style-image: url('./../icon/hand-16px-rtl.png') !important;
+}
+/* list style 2 */
+.list-style-arrow{
+    list-style-image: url('./../icon/arrow-10px.png') !important;
+}
+.list-style-arrow-rtl{
+    list-style-image: url('./../icon/arrow-10px-rtl.png') !important;
+}
+.text-align-rtl{
+    text-align: right !important;
+}
+.padding-left-15px{
+    padding-left: 15px !important;
+}
+.padding-left-15px-rtl{
+    padding-right: 15px !important;
+}
