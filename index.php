@@ -73,10 +73,8 @@
 
 
 
-    <!-- <div id="all-pages-contents" style="background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/leaves-pattern.png');"> -->
-    <!-- <div id="all-pages-contents" style="background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/subtle_white_feathers.png');"> -->
-    <!-- <div id="all-pages-contents" style="background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png');"> -->
-    <div id="all-pages-contents" style="background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/dust_scratches.png');">
+    <!-- <div id="all-pages-contents" style="background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/dust_scratches.png');"> -->
+    <div id="all-pages-contents">
         <section page="home"> <?php include "pages/home.php" ?> </section>
         <section page="introduction" class="container"> <?php include "pages/introduction.php" ?> </section>
         <section page="education" class="container"> <?php include "pages/education.php" ?> </section>

@@ -1,7 +1,7 @@
 
 #preloader{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background: #fff url('https://static.impression.co.uk/2014/05/loading1.gif') no-repeat center;
     position: fixed;
     z-index: 99999999999;

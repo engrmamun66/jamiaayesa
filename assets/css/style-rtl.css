@@ -1338,6 +1338,7 @@
 	margin-bottom: 25px;
 	overflow: hidden;
 	box-shadow: 2px 2px 5px rgb(209, 209, 209);
+	max-width: 328px;
 }
 .home-grids .grid:hover {
 	transition: all .3s;

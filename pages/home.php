@@ -81,21 +81,21 @@
             <div class="col-md-4 col-lg-4 col-sm-12">
                 <div class="grid">
                     <div class="content">
-                        <a href=""> পরীক্ষার নোটিশ </a>
+                        <a href="javascript:void()"> পরীক্ষার নোটিশ </a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 col-sm-12">
                 <div class="grid">
                     <div class="content" draggable="true">
-                        <a href=""> শিক্ষক নিয়োগ নোটিশ </a>
+                        <a href="javascript:void()"> শিক্ষক নিয়োগ নোটিশ </a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 col-sm-12">
                 <div class="grid">
                     <div class="content">
-                        <a href=""> অভিভাবক নোটিশ </a>
+                        <a href="javascript:void()"> অভিভাবক নোটিশ </a>
                     </div>
                 </div>
             </div>

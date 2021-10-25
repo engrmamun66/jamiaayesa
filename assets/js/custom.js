@@ -20,12 +20,15 @@ $(document).ready(function() {
         $('li a').removeClass("mr-active-menu");
         $(this).addClass("mr-active-menu");
     });
-});
-// toogle js 
-$(document).ready(function() {
+
+    // toogle js 
     $(".mr-mobile-menubar").click(function() {
         $(".mr-nav-manu ").slideToggle(200);
     });
+
+    // $(".mr-top-header, .mr-middle-header").on('click', function(){
+    //     $(".mr-nav-manu")
+    // })
 
 });
 // service select search dropdown js
