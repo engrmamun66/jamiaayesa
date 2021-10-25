@@ -101,7 +101,16 @@
 .audio-player .player-glow {
     /* add some property */
 }
-
+@media only screen and (min-width: 601px) {
+  .audio-left {
+	 display: block;
+    }
+}
+@media only screen and (max-width: 600px) {
+  .audio-left {
+	display: none;
+    }
+}
 .audio-left {
 	width: 25%;
 }
